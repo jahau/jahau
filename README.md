@@ -34,11 +34,18 @@ AWS · Azure · Linux · Windows
 
 ## ⭐ Featured Open-Source Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [AI Repo Rules Generator](https://github.com/jahau/ai-repo-rules-generator) | Generate project-aware AI coding instructions | ![Stars](https://img.shields.io/github/stars/jahau/ai-repo-rules-generator) |
-| [WP Security Doctor](https://github.com/jahau/wp-security-doctor) | Local WordPress security inspection | ![Stars](https://img.shields.io/github/stars/jahau/wp-security-doctor) |
-| [GitHub Contribution Doctor](https://github.com/jahau/github-contribution-doctor) | Diagnose GitHub contribution issues | ![Stars](https://img.shields.io/github/stars/jahau/github-contribution-doctor) |
+Original projects I created and maintain (not forks).
+
+| Project | Description | Language | Release | Stars |
+|---------|-------------|----------|---------|-------|
+| [Workflow Trust Check](https://github.com/jahau/workflow-trust-check) | Explain GitHub Actions trust-boundary risks in local workflow files | Rust | ![Release](https://img.shields.io/github/v/release/jahau/workflow-trust-check) | ![Stars](https://img.shields.io/github/stars/jahau/workflow-trust-check) |
+| [Agent Permission Map](https://github.com/jahau/agent-permission-map) | Map what AI coding agents may do without asking, across tools | TypeScript | ![Release](https://img.shields.io/github/v/release/jahau/agent-permission-map) | ![Stars](https://img.shields.io/github/stars/jahau/agent-permission-map) |
+| [Agent Session Diff](https://github.com/jahau/agent-session-diff) | Compare two AI coding-agent session exports | Go | ![Release](https://img.shields.io/github/v/release/jahau/agent-session-diff) | ![Stars](https://img.shields.io/github/stars/jahau/agent-session-diff) |
+| [AI Repo Rules Generator](https://github.com/jahau/ai-repo-rules-generator) | Generate project-aware AI coding instructions | Python | ![Release](https://img.shields.io/github/v/release/jahau/ai-repo-rules-generator) | ![Stars](https://img.shields.io/github/stars/jahau/ai-repo-rules-generator) |
+| [WP Security Doctor](https://github.com/jahau/wp-security-doctor) | Local WordPress security inspection | Python | ![Release](https://img.shields.io/github/v/release/jahau/wp-security-doctor) | ![Stars](https://img.shields.io/github/stars/jahau/wp-security-doctor) |
+| [GitHub Contribution Doctor](https://github.com/jahau/github-contribution-doctor) | Diagnose GitHub contribution issues | Python | ![Release](https://img.shields.io/github/v/release/jahau/github-contribution-doctor) | ![Stars](https://img.shields.io/github/stars/jahau/github-contribution-doctor) |
+
+Browse [all original repositories](https://github.com/jahau?tab=repositories&type=source). Forks of other projects are kept separately for reference and contributions: [forks](https://github.com/jahau?tab=repositories&type=fork).
 
 ## 📊 Open Source
 
